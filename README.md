@@ -9,6 +9,7 @@
 - **Python → Циклы → Третий урок — `for`:** [подробный разбор цикла по шагам (.ipynb)](python/02_loops/01_for/03_for_loop_step_by_step.ipynb) · [открыть в Google Colab](https://colab.research.google.com/github/gwinell/tetra-students/blob/main/python/02_loops/01_for/03_for_loop_step_by_step.ipynb).
 - **Python → Циклы → Четвёртый урок — `while` и `random`:** [условные циклы и случайный выбор (.ipynb)](python/02_loops/02_while/04_while_and_random.ipynb) · [открыть в Google Colab](https://colab.research.google.com/github/gwinell/tetra-students/blob/main/python/02_loops/02_while/04_while_and_random.ipynb).
 - **Python → Коллекции → Пятый урок — списки:** [индексы, срезы и операции со списками (.ipynb)](python/03_collections/01_lists/lesson_05_lists.ipynb) · [открыть в Google Colab](https://colab.research.google.com/github/gwinell/tetra-students/blob/main/python/03_collections/01_lists/lesson_05_lists.ipynb).
+- **Python → Коллекции → Шестой урок — списки в циклах:** [циклы `for` и `while`, генераторы списков (.ipynb)](python/03_collections/01_lists/lesson_06_lists_loops_comprehensions.ipynb) · [открыть в Google Colab](https://colab.research.google.com/github/gwinell/tetra-students/blob/main/python/03_collections/01_lists/lesson_06_lists_loops_comprehensions.ipynb).
 - **Дополнительные материалы по `for`:** [ранее подготовленная теория и задачи (.ipynb)](python/02_loops/01_for/for_loop_theory_and_tasks.ipynb) · [открыть в Google Colab](https://colab.research.google.com/github/gwinell/tetra-students/blob/main/python/02_loops/01_for/for_loop_theory_and_tasks.ipynb).
 
 Остальные исходные материалы сохранены в их текущих форматах; по мере подготовки курса в соответствующих папках можно добавлять новые блокноты с подробной теорией, запускаемыми примерами и заданиями.
@@ -21,7 +22,7 @@
 | [Python / Основы](python/01_basics/) | Первый урок: строки, ввод и вывод; второй урок: числа, `int()`, сравнения и условия |
 | [Python / Цикл for](python/02_loops/01_for/) | Третий урок: подробный разбор `for`, `range()` и условий внутри цикла; дополнительные задания |
 | [Python / Цикл while](python/02_loops/02_while/) | Четвёртый урок: `while`, `random.randint()`, `random.choice()` и условия; задания на цикл `while` |
-| [Python / Списки](python/03_collections/01_lists/) | Пятый урок: индексы и срезы строк и списков, изменение, добавление и удаление элементов |
+| [Python / Списки](python/03_collections/01_lists/) | Пятый урок: индексы, срезы и операции; шестой урок: списки в циклах `for` и `while`, создание нового списка и генераторы списков |
 | [Python / Turtle](python/03_turtle/) | Черепашка: руководство и GIF-анимации к примерам |
 | [Python / Pygame / Динозаврик](python/04_pygame/01_dinosaur/) | Объяснение проекта «Динозаврик» |
 | [Python / Pygame / Шахматы](python/04_pygame/02_chess/) | Программа шахмат, модуль фигур и подробные руководства |
