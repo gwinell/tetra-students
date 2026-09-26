@@ -5,6 +5,7 @@
 ## Jupyter Notebook
 
 - **Python → Основы → Первый урок:** [текст, ввод и вывод (.ipynb)](python/01_basics/01_first_lesson/01_text_input_output.ipynb) · [открыть в Google Colab](https://colab.research.google.com/github/gwinell/tetra-students/blob/main/python/01_basics/01_first_lesson/01_text_input_output.ipynb).
+- **Python → Основы → Второй урок:** [числа и условия (.ipynb)](python/01_basics/02_numbers_and_conditions/02_numbers_and_conditions.ipynb) · [открыть в Google Colab](https://colab.research.google.com/github/gwinell/tetra-students/blob/main/python/01_basics/02_numbers_and_conditions/02_numbers_and_conditions.ipynb).
 - **Python → Циклы → `for`:** [теория и задания (.ipynb)](python/02_loops/01_for/for_loop_theory_and_tasks.ipynb) · [открыть в Google Colab](https://colab.research.google.com/github/gwinell/tetra-students/blob/main/python/02_loops/01_for/for_loop_theory_and_tasks.ipynb).
 
 Остальные исходные материалы сохранены в их текущих форматах; по мере подготовки курса в соответствующих папках можно добавлять новые блокноты с подробной теорией, запускаемыми примерами и заданиями.
@@ -14,7 +15,7 @@
 | Раздел | Содержание |
 | --- | --- |
 | [Python / Общие уроки](python/00_mixed_lessons/) | Учебник и задания, объединяющие основы, условия и циклы |
-| [Python / Основы](python/01_basics/) | Первый урок: строки, `print()`, `input()`, переменные, f-строки, `sep`, `end` и специальные символы |
+| [Python / Основы](python/01_basics/) | Первый урок: строки, ввод и вывод; второй урок: числа, `int()`, сравнения и условия |
 | [Python / Цикл for](python/02_loops/01_for/) | Интерактивный Jupyter Notebook с теорией и практикой |
 | [Python / Цикл while](python/02_loops/02_while/) | Задания на цикл `while` |
 | [Python / Turtle](python/03_turtle/) | Черепашка: руководство и GIF-анимации к примерам |
